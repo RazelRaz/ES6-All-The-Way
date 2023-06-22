@@ -1,0 +1,1 @@
+//The Syntax is the set of rules which defines the arrangements of symbols
