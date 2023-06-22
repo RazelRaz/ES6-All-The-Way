@@ -1,3 +1,4 @@
+// Dynamic Function
 const myFunc = function(myName){
     return myName;
 }
